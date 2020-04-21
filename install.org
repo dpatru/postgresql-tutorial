@@ -1,0 +1,5 @@
+* Install postgresql
+
+I'm installing Postgres on an Ubuntu system. I do this by running `sudo apt install post`
+
+
